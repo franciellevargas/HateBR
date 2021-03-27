@@ -1,1 +1,1 @@
-# MOL-Lexicon
+# MOL Lexicon
