@@ -1,1 +1,1 @@
-# MAL Multilingual Abusive Lexicon
+# MAL Multilingual Offensive Lexicon
