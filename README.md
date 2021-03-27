@@ -1,1 +1,1 @@
-# MOL Lexicon
+# MAL Multilingual Abusive Lexicon
