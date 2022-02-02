@@ -1,6 +1,6 @@
-# HateBR - New first large expert annotated dataset and ML-based methods for offensive language and hate speech detection in Portuguese
+# HateBR - Abusive Language Dataset in Brazilian Portuguese
 
-Autors and developers: Francielle Vargas, Isabelle Carvalho, Fabiana Góes, Fabrício Benvevenuto e Thiago A. S. Pardo.
+Autors and developers: Francielle Vargas, Isabelle Carvalho, Fabiana Góes, Thiago A. S. Pardo e Fabrício Benvevenuto.
 
 
 
