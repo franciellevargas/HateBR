@@ -1,3 +1,3 @@
-# HateBR - Offensive Language Dataset in Brazilian Portuguese
+# HateBR - Offensive Language and Hate Speech Dataset in Brazilian Portuguese
 
 
