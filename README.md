@@ -17,35 +17,35 @@ The following table describes the labels for each class.
 <tr><th>Offensive Language</th><th>Offensiveness Levels</th><th>Hate Speech</th></tr>
 <tr><td>
 
-|class|label| 
-|--|--|  
-|offensive|1|
-|non-offensive|0|
+|class|label|#|
+|--|--|--|  
+|offensive|1|3,500| 
+|non-offensive|0|3,500| 
 
 </td><td>
 
-|class|label|
-|--|--|
-|highly|3|
-|moderately|2|
-|slightly|1|
-|non-offensive|0|
+|class|label|#|
+|--|--|--|
+|highly|3|778|
+|moderately|2|1,044|
+|slightly|1|1,678|
+|non-offensive|0|3,500|
   
 </td><td>
 
-|class|label|  
-|--|--|  
-|antisemitism|1|
-|apology to the dictatorship|2|
-|fatphobia|3|
-|homophobia|4|
-|partyism|5|
-|racism|6|
-|religious intolerance|7|
-|sexism|8|
-|xenophobia|9|
-|non-hate & offensive|-1|
-|non-offensive|0|
+|class|label|#|  
+|--|--|--|  
+|antisemitism|1|2|
+|apology to the dictatorship|2|32|
+|fatphobia|3|27|
+|homophobia|4|17|
+|partyism|5|496|
+|racism|6|8|
+|religious intolerance|7|47|
+|sexism|8|97|
+|xenophobia|9|1|
+|non-hate & offensive|-1|2,773|
+|non-offensive|0|3,500|
 
 </td></tr></table>
 </div>
