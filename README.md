@@ -53,10 +53,12 @@ The following table describes the labels for each class.
 </br>
 
 In addition to the corpus, the .pkl files refer to the most accurate models. 
-File names are organized as `[classification (offensive or hateful)_representation (ngram or tfidf)_algorithms (nb, svm, mlp or lr)]`. 
+File names are organized as `[classification (offensive or hate)_representation (ngram or tfidf)_algorithms (nb, svm, mlp or lr)]`. 
 For example, the file *offensive_tfidf_svm.pkl* presents the model about offensive detection with tf-idf representation using the support vector machine algorithm.
+
+</br>
 
 CITING
 
-Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Building an Expert Annotated Corpus for Brazilian Offensive Language and Hate Speech Detection. In Natural Language Engineering Journal, pp. Association for Computational Linguistics (ACL). 
+*Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Building an Expert Annotated Corpus for Brazilian Offensive Language and Hate Speech Detection. In Natural Language Engineering Journal, pp. Association for Computational Linguistics (ACL).* 
 
