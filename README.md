@@ -17,14 +17,14 @@ The following table describes the labels for each class.
 <tr><th>Offensive Language</th><th>Offensiveness Levels</th><th>Hate Speech</th></tr>
 <tr><td>
 
-|class|label|#|
+|class|label|total|
 |--|--|--|  
 |offensive|1|3,500| 
 |non-offensive|0|3,500| 
 
 </td><td>
 
-|class|label|#|
+|class|label|total|
 |--|--|--|
 |highly|3|778|
 |moderately|2|1,044|
@@ -33,7 +33,7 @@ The following table describes the labels for each class.
   
 </td><td>
 
-|class|label|#|  
+|class|label|total|  
 |--|--|--|  
 |antisemitism|1|2|
 |apology to the dictatorship|2|32|
