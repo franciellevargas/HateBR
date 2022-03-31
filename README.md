@@ -8,7 +8,7 @@ HateBR is the first large-scale multilayer annotated corpus of Brazilian Instagr
 This repository contains the corpus and the best models presented in the article "Building an Expert Annotated Corpus for Brazilian Offensive Language and Hate Speech Detection". The hateBR.csv file is composed of an offensive language and hate speech annotated corpus, which provides 4 (four) columns as described above:
 * 1st column: Instagram comment.  
 * 2nd column: Offensive language classification, which consists of offensive (label 1) and non-offensive (label 2) labels.
-* 3rd column: Offensiveness-level classification, which consists of  highly (label 3), moderately (label 2), and slightly (label 1) offensive labels. 
+* 3rd column: Offensiveness-level classification, which consists of  highly (label 3), moderately (label 2), and slightly (label 1) offensive. 
 * 4rd column: Hate speech classification, which consist of nine different hate target groups: antisemitism (label 1), apology to the dictatorship (label 2), fatphobia (label 3), homophobia (label 4), partyism (label 5), racism (label 6), religious intolerance (label 7), sexism (label 8), and xenophobia (label 9). No hate speech comments was classified such as (label 0).
 
 The following table describes in detail the labels for each layer of classification.
