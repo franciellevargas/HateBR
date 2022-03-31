@@ -1,4 +1,4 @@
-![SSC-logo-300x171](https://github.com/francielleavargas/HateBR/blob/main/.github/dcc-logo.jpg) ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png)  ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png)
+![SSC-logo-300x171](https://github.com/francielleavargas/HateBR/blob/main/.github/dcc-logo.jpg) ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png)  ![SSC-logo-300x171](https://github.com/francielleavargas/HateBR/blob/main/.github/logo-locus.png)
 
 
 
