@@ -1,4 +1,4 @@
-![SSC-logo-300x171](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.jean.dcc.ufmg.br%2F&psig=AOvVaw2wBB9vU9BJXcU5Z4f1soKN&ust=1648822268059000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiIgt_D8PYCFQAAAAAdAAAAABAT) ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png)
+![SSC-logo-300x171](https://github.com/francielleavargas/HateBR/blob/main/Logo-DCCUFMG.jpg) ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png)
 
 <h2 align="center"> HateBR - Offensive Language and Hate Speech Dataset in Brazilian Portuguese </h2>  
 
