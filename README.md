@@ -6,12 +6,12 @@ HateBR is the first large-scale multilayer annotated corpus of Brazilian Instagr
 ---
 
 This repository contains the corpus and the best models presented in the article "Building an Expert Annotated Corpus for Brazilian Offensive Language and Hate Speech Detection". The hateBR.csv file is composed of an offensive language and hate speech annotated corpus, which provides 4 (four) columns as described above:
-* First column: Text of the Instagram comment.  
-* Second column:  Binary classification, which consists of offensive (label 1) and non-offensive (label 2) classes.
-* Third column:  Offensiveness levels, which consists of  highly (label 3), moderately (label 2), and slightly (label 1) offensive.  
-* Fourth column: hate targets which consist of  nine different hate groups: xenophobia, racism, homophobia, sexism, religious intolerance, partyism, an apology to the dictatorship, antisemitism, and fatphobia.
+* 1st column: Instagram comment.  
+* 2nd column: Offensive language classification, which consists of offensive (label 1) and non-offensive (label 2) labels.
+* 3rd column: Offensiveness-level classification, which consists of  highly (label 3), moderately (label 2), and slightly (label 1) offensive labels. 
+* 4rd column: Hate speech classification, which consist of nine different hate target groups: antisemitism (label 1), apology to the dictatorship (label 2), fatphobia (label 3), homophobia (label 4), partyism (label 5), racism (label 6), religious intolerance (label 7), sexism (label 8), and xenophobia (label 9). No hate speech comments was classified such as (label 0).
 
-The following table describes the labels for each class.
+The following table describes in detail the labels for each layer of classification.
 <div align="center">
 <table> 
 <tr><th>Offensive Language</th><th>Offensiveness Levels</th><th>Hate Speech</th></tr>
@@ -52,9 +52,7 @@ The following table describes the labels for each class.
 
 </br>
 
-In addition to the corpus, the .pkl files refer to the most accurate models. 
-File names are organized as `[classification (offensive or hate)_representation (ngram or tfidf)_algorithms (nb, svm, mlp or lr)]`. 
-For example, the file *offensive_tfidf_svm.pkl* presents the model about offensive detection with tf-idf representation using the support vector machine algorithm.
+In addition, we also provide baseline machine learning results for both task: offensive language and hate speech detection. The best obtained models is available here in .pkl files. File names are organized as `[classification (offensive or hate)_representation (ngram or tfidf)_algorithms (nb, svm, mlp or lr)]`. For example, the file *offensive_tfidf_svm.pkl* presents the model about offensive detection with tf-idf representation using the support vector machine algorithm.
 
 </br>
 
