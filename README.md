@@ -64,5 +64,5 @@ In addition, we also provide baseline machine learning results for both task: of
 
 CITING
 
-*Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Building an Expert Annotated Corpus for Brazilian Offensive Language and Hate Speech Detection. In Natural Language Engineering Journal, pp. Association for Computational Linguistics (ACL).* 
+*Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Building an Expert Annotated Corpus for Brazilian Offensive Language and Hate Speech Detection. In Natural Language Engineering Journal, pp 1-16. Association for Computational Linguistics (ACL).* 
 
