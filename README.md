@@ -50,7 +50,7 @@ The following table describes in detail the labels for each layer of classificat
 |religious intolerance|7|47|
 |sexism|8|97|
 |xenophobia|9|1|
-|non-hate & offensive|-1|2,773|
+|non-hate |-1|2,773|
 |non-offensive|0|3,500|
 
 </td></tr></table>
