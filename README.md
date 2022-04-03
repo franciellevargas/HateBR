@@ -1,7 +1,6 @@
 
 ![SSC-logo-300x171](https://github.com/francielleavargas/HateBR/blob/main/.github/dcc-logo.jpg) 
 ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) 
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png">
 
 
 <h2 align="center"> HateBR - Offensive Language and Hate Speech Dataset in Brazilian Portuguese </h2>  
