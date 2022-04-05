@@ -68,5 +68,5 @@ CITING
 ![SSC-logo-300x171](https://github.com/francielleavargas/HateBR/blob/main/.github/dcc-logo.jpg)
 ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) 
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/ab8d3f1a3e047920d0ec73c609fe0115970ebd1e/.github/logo-locus.png)
-![Screenshot from 2019-08-22 12-36-57](https://user-images.githubusercontent.com/19657817/63529275-ccd5f780-c4da-11e9-9d2c-dce592d855e7.png) 
+![Screenshot from 2019-08-22 12-36-57](https://github.com/franciellevargas/HateBR/blob/29754908250cdc793fa085b07448aa79203c9eb5/.github/nicl.png) 
 
