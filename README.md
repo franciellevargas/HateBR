@@ -1,6 +1,4 @@
 
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/cfb49b64a46404d50d7bb172868a5d22c7466526/.github/dcc-logo.jpg)
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5500cd27a2f38e9e97924a83019215ca5add04fe/.github/icmc_logo.jpeg) 
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/ab8d3f1a3e047920d0ec73c609fe0115970ebd1e/.github/logo-locus.png)
 ![Screenshot from 2019-08-22 12-36-57](https://github.com/franciellevargas/HateBR/blob/29754908250cdc793fa085b07448aa79203c9eb5/.github/nicl.png) 
 
