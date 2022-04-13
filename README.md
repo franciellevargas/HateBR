@@ -45,7 +45,7 @@ The following table describes in detail the labels for each layer of classificat
 |class|label|total|  
 |--|--|--|  
 |antisemitism|1|2|
-|apology to the dictatorship|2|32|
+|apology for the dictatorship|2|32|
 |fatphobia|3|27|
 |homophobia|4|17|
 |partyism|5|496|
