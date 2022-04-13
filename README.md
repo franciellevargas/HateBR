@@ -64,6 +64,9 @@ In addition, we also provide baseline machine learning results for both task: of
 
 CITING
 
-*Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Building an Expert Annotated Corpus for Brazilian Offensive Language and Hate Speech Detection. In Natural Language Engineering Journal, pp 1-16. Association for Computational Linguistics (ACL).
+*Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022) , pp 1-10. Marseille, France. Association for Computational Linguistics (ACL).
+
+
+
 
 
