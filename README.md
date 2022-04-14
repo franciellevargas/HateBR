@@ -69,7 +69,7 @@ Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). 
 
 
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/29e684ae8ccdf2b49158045a44f8194221f59c0a/.github/icmc_grande.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/82fa219d8b974ef5e4017d0c6b35c33c03e70627/.github/icmc_grande.png)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7c4ef593d8d614034ae2d1d2a5880b752f169f8c/.github/cnpq.png)
 
 
