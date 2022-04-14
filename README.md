@@ -71,6 +71,5 @@ Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). 
 
 
 
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7c4ef593d8d614034ae2d1d2a5880b752f169f8c/.github/cnpq.png)
 
 
