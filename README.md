@@ -1,6 +1,6 @@
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/6eabdd240ea21af9c1d26529c2085991b4eb2bc1/.github/locus_dcc_ufmg.png)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/82fa219d8b974ef5e4017d0c6b35c33c03e70627/.github/icmc_grande.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/6bfb4bc4379cc478f61fe7befc51e14239ec3026/.github/locus_media.png)
 
 
 <h2 align="center"> HateBR - Offensive Language and Hate Speech Dataset in Brazilian Portuguese </h2>  
