@@ -1,11 +1,7 @@
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/6eabdd240ea21af9c1d26529c2085991b4eb2bc1/.github/locus_dcc_ufmg.png)
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/38fff24f5507b6901a5170cd5f7607c98001d8bb/.github/icmc_logo.jpeg)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/b34725f4a982dde6ea9e0500b510d7c4e7dbbdc9/.github/fapemig.png)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7c4ef593d8d614034ae2d1d2a5880b752f169f8c/.github/cnpq.png)
-
-
- 
 
 <h2 align="center"> HateBR - Offensive Language and Hate Speech Dataset in Brazilian Portuguese </h2>  
 
@@ -73,5 +69,7 @@ In addition, we also provide baseline machine learning results for both task: of
 
 Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). *HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection*. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022) , pp 1-10. Marseille, France. Association for Computational Linguistics (ACL). </p>
 
+
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
 
 
