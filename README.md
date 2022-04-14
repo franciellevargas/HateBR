@@ -1,5 +1,5 @@
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/6eabdd240ea21af9c1d26529c2085991b4eb2bc1/.github/locus_dcc_ufmg.png)
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/96d99ce3a5ba2662007954b581fb1a0f470e9bbc/.github/dcc-ufmg.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/0e36dd4113e740c2849acdb329440abada7d25dc/.github/logo_icmc.png)
  
 
