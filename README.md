@@ -2,9 +2,6 @@
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/0649d2e2d7e13b420ea8d3453b178dd311aaf7b1/.github/icmc.png)
 
-<center>
-    <img src="https://github.com/franciellevargas/HateBR/blob/0649d2e2d7e13b420ea8d3453b178dd311aaf7b1/.github/icmc.png">
-</center>
 
  
 
