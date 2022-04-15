@@ -65,12 +65,15 @@ In addition, we also provide baseline machine learning results for both task: of
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
-Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022) , pp 1-10. Marseille, France. Association for Computational Linguistics (ACL). </p>
+Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022) , pp 1-10. Marseille, France. Association for Computational Linguistics (ACL). 
+
+</p>
 
 
 
+<h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<h2 align="left"> ACKNOWLEDGEMENT </h2>
-
-The authors are grateful to the Social Computing Laboratory at the Computer Science Department - the Federal University of Minas Gerais for supporting this work. This work was funded by Fundep research project number 28175. 
+<p align="justify">The authors are grateful to the Social Computing Laboratory at the Computer Science Department - the Federal University of Minas Gerais for supporting this work. This work was funded by Fundep research project number 28175. 
+  
+</p>
 
