@@ -5,7 +5,7 @@
 <h2 align="center"> HateBR - Offensive Language and Hate Speech Dataset in Brazilian Portuguese </h2>  
 
 </br>
-<p align="justify"> HateBR is the first large-scale expert annotated corpus of Brazilian Instagram comments for hate speech and offensive language detection on the web and social media. The HateBR corpus was collected from Brazilian Instagram comments of political personalities and manually annotated by specialists, being composed of 7,000 documents annotated according to three different layers: a binary classification (offensive versus non-offensive comments), offensiveness-level (highly, moderately, and slightly offensive messages), and nine hate speech targets (xenophobia, racism, homophobia, sexism, religious intolerance, partyism, apology to the dictatorship, antisemitism, and fatphobia). Each comment was annotated by three different annotators and achieved high inter-annotator agreement. At last, baseline experiments were implemented reaching 85% of F1-score outperforming the current literature proposals for the Portuguese language. We hope that the proposed expertly annotated corpus may foster research on hate speech and offensive language detection in the Natural Language Processing area. </p>
+<p align="justify"> HateBR is the first large-scale expert annotated corpus of Brazilian Instagram comments for hate speech and offensive language detection on the web and social media. The HateBR corpus was collected from Brazilian Instagram comments of politicians and manually annotated by specialists, being composed of 7,000 documents annotated according to three different layers: a binary classification (offensive versus non-offensive comments), offensiveness-level (highly, moderately, and slightly offensive messages), and nine hate speech groups (xenophobia, racism, homophobia, sexism, religious intolerance, partyism, apology to the dictatorship, antisemitism, and fatphobia). Each comment was annotated by three different annotators and achieved high inter-annotator agreement. Furthermore, baseline experiments were implemented reaching 85% of F1-score outperforming the current literature models for the Portuguese language. We hope that the proposed expertly annotated corpus may foster research on hate speech and offensive language detection in the Natural Language Processing area. </p>
 
 ---
 
@@ -73,7 +73,7 @@ Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). 
 
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<p align="justify">The authors are grateful to the Social Computing Laboratory at the Computer Science Department - the Federal University of Minas Gerais for supporting this work. This work was funded by Fundep research project number 28175. 
+<p align="justify">The authors are grateful to the Social Computing Laboratory, Computer Science Department at Federal University of Minas Gerais for supporting this work. This work is partially funded by Fapesp, CNPq and Fapemig. 
   
 </p>
 </br>
