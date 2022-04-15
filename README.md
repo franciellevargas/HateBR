@@ -72,5 +72,5 @@ Vargas, F.A., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). 
 
 <h2 align="left"> ACKNOWLEDGEMENT </h2>
 
-The authors are grateful to the Social Computing Laboratory at the Computer Science Department - the Federal University of Minas Gerais for supporting this work. Moreover, this work is funded by Fundep research project number 28175. 
+The authors are grateful to the Social Computing Laboratory at the Computer Science Department - the Federal University of Minas Gerais for supporting this work. This work was funded by Fundep research project number 28175. 
 
