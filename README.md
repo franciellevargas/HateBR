@@ -9,14 +9,14 @@
 
 ---
 
-<p align="justify"> This repository contains the corpus and the best models presented in the article "Building an Expert Annotated Corpus for Brazilian Offensive Language and Hate Speech Detection". The hateBR.csv file is composed of an offensive language and hate speech annotated corpus, which provides 4 (four) columns as described above: </p>
+<p align="justify"> This repository contains the corpus and the best models presented in the paper (see section "citing"). HateBr.csv file is composed of an offensive language and hate speech annotated corpus, which provides 4 (four) columns as described above: </p>
 
 * 1st column: Instagram comment.   
 * 2nd column: Offensive language classification, which consists of offensive (label 1) and non-offensive (label 2) labels.
 * 3rd column: Offensiveness-level classification, which consists of  highly (label 3), moderately (label 2), and slightly (label 1) offensive. 
-* 4rd column: Hate speech classification, which consist of nine different hate target groups: antisemitism (label 1), apology to the dictatorship (label 2), fatphobia (label 3), homophobia (label 4), partyism (label 5), racism (label 6), religious intolerance (label 7), sexism (label 8), and xenophobia (label 9). No hate speech comments was classified such as (label 0).
+* 4rd column: Hate speech classification, which consist of nine different hate target groups: antisemitism (label 1), apology for the dictatorship (label 2), fatphobia (label 3), homophobia (label 4), partyism (label 5), racism (label 6), religious intolerance (label 7), sexism (label 8), and xenophobia (label 9). No hate speech comments was classified such as (label 0).
 
-The following table describes in detail the labels for each layer of classification.
+The following table describes in detail the labels for each proposed layer of annotation:
 <div align="center">
 <table> 
 <tr><th>Offensive Language</th><th>Offensiveness Levels</th><th>Hate Speech</th></tr>
@@ -27,6 +27,7 @@ The following table describes in detail the labels for each layer of classificat
 |offensive|1|3,500| 
 |non-offensive|0|3,500| 
 
+
 </td><td>
 
 |class|label|total|
@@ -35,6 +36,7 @@ The following table describes in detail the labels for each layer of classificat
 |moderately|2|1,044|
 |slightly|1|1,678|
 |non-offensive|0|3,500|
+|Total||7,000|
   
 </td><td>
 
@@ -51,6 +53,7 @@ The following table describes in detail the labels for each layer of classificat
 |xenophobia|9|1|
 |non-hate |-1|2,773|
 |non-offensive|0|3,500|
+|Total||7,000|
 
 </td></tr></table>
 </div>
