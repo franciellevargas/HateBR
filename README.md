@@ -26,8 +26,7 @@ The following table describes in detail the labels for each proposed layer of an
 |--|--|--|  
 |offensive|1|3,500| 
 |non-offensive|0|3,500| 
-|--|--|--|
-Total | | 7,000|
+**Total** | | **7,000**|
 
 
 </td><td>
