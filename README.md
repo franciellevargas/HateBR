@@ -37,7 +37,7 @@ The following table describes in detail the labels for each proposed layer of an
 |moderately|2|1,044|
 |slightly|1|1,678|
 |non-offensive|0|3,500|
-|Total||7,000|
+|**Total**||**7,000**|
   
 </td><td>
 
@@ -54,7 +54,7 @@ The following table describes in detail the labels for each proposed layer of an
 |xenophobia|9|1|
 |non-hate |-1|2,773|
 |non-offensive|0|3,500|
-|Total||7,000|
+|**Total**||**7,000**|
 
 </td></tr></table>
 </div>
