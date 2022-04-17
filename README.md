@@ -12,9 +12,9 @@
 <p align="justify"> This repository contains the corpus and the best models presented in the paper (see section "citing"). HateBr.csv file is composed of an offensive language and hate speech annotated corpus, which provides 4 (four) columns as described above: </p>
 
 * **1st column**: Instagram comments.   
-* **2nd column**: Offensive language classification divided into offensive comments (label 1) versus non-offensive comments (label 2).
-* **3rd column**: Offensiveness-level classification divided into highly offensive (label 3), moderately offensive (label 2), and slightly offensive (label 1). 
-* **4rd column**: Hate speech classification divided into nine different hate groups: antisemitism (label 1), apology for the dictatorship (label 2), fatphobia (label 3), homophobia (label 4), partyism (label 5), racism (label 6), religious intolerance (label 7), sexism (label 8), and xenophobia (label 9). Offensive & no hate speech comments was classified such as (label -1).
+* **2nd column**: Offensive language classification divided into offensive comments versus non-offensive comments.
+* **3rd column**: Offensiveness-level classification divided into highly offensive, moderately offensive, and slightly offensive. 
+* **4rd column**: Hate speech classification divided into nine different hate groups: antisemitism, apology for the dictatorship, fatphobia, homophobia, partyism, racism, religious intolerance, sexism, and xenophobia. At last, offensive & no hate speech comments also was classified.
 
 The following table describes in detail the labels for each proposed layer of annotation:
 <div align="center">
