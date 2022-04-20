@@ -52,7 +52,7 @@ The following table describes in detail the labels for each proposed layer of an
 |religious intolerance|7|47|
 |sexism|8|97|
 |xenophobia|9|1|
-|offensive & non-hate |-1|2,773|
+|offensive & non-hate speech |-1|2,773|
 |non-offensive|0|3,500|
 |**Total**||**7,000**|
 
