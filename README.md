@@ -73,8 +73,9 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Ha
 
 </p>
 
+
 <p align="justify">
-<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). An expert annotated corpus and a contextual-aware offensive lexicon for Brazilian hate speech detection. Natural Language Engineering Journal, pp 1-20 Association for Computational Linguistics (ACL).
+<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). An expert annotated corpus and a contextual-aware offensive lexicon for Brazilian hate speech detection. Natural Language Engineering Journal, pp 1-22 Association for Computational Linguistics (ACL).
 </p>
 
 <br>
