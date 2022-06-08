@@ -82,7 +82,7 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Ha
 
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<p align="justify">The authors are grateful to Social Computing Laboratory at Computer Science Department from Federal University of Minas Gerais for supporting this work. This work is partially funded by the CNPq, Fapemig and Fapesp. 
+<p align="justify">The authors are grateful to CNPq, Fapemig and Fapesp for supporting this project. 
   
 </p>
 </br>
