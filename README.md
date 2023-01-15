@@ -69,21 +69,20 @@ In addition, we also provide baseline machine learning results for both task: of
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
-Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022) , pp 1-10. Marseille, France. Association for Computational Linguistics (ACL). 
+Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7174–7183. Marseille, France. Association for Computational Linguistics (ACL). 
 
 </p>
 
 
 <p align="justify">
-<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Contextual-aware and expert data resources for Brazilian
-Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-25. Association for Computational Linguistics (ACL).
+<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2023). Contextual-aware and expert data resources for Brazilian
+Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-26. Association for Computational Linguistics (ACL).
 </p>
 
 <br>
 
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<p align="justify">The authors are grateful to Social Computing Laboratory of the Computer Science Department at Federal University of Minas Gerais for supporting this work. This work was funded by Sinch, Fapemig, Fapesp and CNPq. 
-  
+<p align="justify"> This project was partially funded by Sinch, Fapemig, Fapesp and CNPq. 
 </p>
 </br>
