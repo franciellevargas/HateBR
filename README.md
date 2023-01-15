@@ -75,7 +75,7 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Ha
 
 
 <p align="justify">
-<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Contextual-aware and expert resources for Brazilian
+<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Contextual-aware and expert data resources for Brazilian
 Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-25. Association for Computational Linguistics (ACL).
 </p>
 
@@ -83,7 +83,7 @@ Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-25.
 
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<p align="justify">The authors are grateful to Social Computing Laboratory of the Computer Science Department at Federal University of Minas Gerais for supporting this work. This work was funded by Fapemig, Fapesp and CNPq. 
+<p align="justify">The authors are grateful to Social Computing Laboratory of the Computer Science Department at Federal University of Minas Gerais for supporting this work. This work was funded by Sinch, Fapemig, Fapesp and CNPq. 
   
 </p>
 </br>
