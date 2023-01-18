@@ -84,6 +84,7 @@ Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-26.
 <h2 align="left"> RESEARCH FUNDING </h2>
 
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/sinch.png?raw=true)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/fapesp.jpg?raw=true)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/fapemig.png?raw=true)
 
 </br>
