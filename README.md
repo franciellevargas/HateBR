@@ -83,6 +83,7 @@ Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-26.
 
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
 
-<p align="justify"> This project was partially funded by Sinch, Fapemig, Fapesp and CNPq. 
+<p align="justify"> This project was partially funded by ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/1c2ecbc54df5719102d068370b3eca9dacea8334/.github/locus_media.png)
+
 </p>
 </br>
