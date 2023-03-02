@@ -74,11 +74,6 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Ha
 </p>
 
 
-<p align="justify">
-<p align="justify"> Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2023). Contextual-aware and expert data resources for Brazilian
-Portuguese hate speech detection. Natural Language Engineering Journal, pp 1-26. Association for Computational Linguistics (ACL).
-</p>
-
 <br>
 
 <h2 align="left"> FUNDING </h2>
