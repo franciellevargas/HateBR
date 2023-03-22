@@ -80,5 +80,6 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). Ha
 
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/sinch.png?raw=true)
 ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/1c6044026c8617de939f562c83e1e45c19ca8c89/.github/cnpq.png)
 
 </br>
