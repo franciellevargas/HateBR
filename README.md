@@ -68,11 +68,30 @@ In addition, we also provide baseline machine learning results for both task: of
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
-Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7174–7183. Marseille, France. Association for Computational Linguistics (ACL). 
-
+Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b>HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection</b>. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7174–7183. Marseille, France. Association for Computational Linguistics (ACL). 
 </p>
 
+</br>
 
+<h2 align="left"> BIBTEX </h2>
+<p align="left">
+ @inproceedings{vargas-etal-2022-hatebr,
+    title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
+    author = "Vargas, Francielle  and
+      Carvalho, Isabelle  and
+      Rodrigues de G{\'o}es, Fabiana  and
+      Pardo, Thiago  and
+      Benevenuto, Fabr{\'\i}cio",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.777",
+    pages = "7174--7183",
+    abstract = "Due to the severity of the social media offensive and hateful comments in Brazil, and the lack of research in Portuguese, this paper provides the first large-scale expert annotated corpus of Brazilian Instagram comments for hate speech and offensive language detection. The HateBR corpus was collected from the comment section of Brazilian politicians{'} accounts on Instagram and manually annotated by specialists, reaching a high inter-annotator agreement. The corpus consists of 7,000 documents annotated according to three different layers: a binary classification (offensive versus non-offensive comments), offensiveness-level classification (highly, moderately, and slightly offensive), and nine hate speech groups (xenophobia, racism, homophobia, sexism, religious intolerance, partyism, apology for the dictatorship, antisemitism, and fatphobia). We also implemented baseline experiments for offensive language and hate speech detection and compared them with a literature baseline. Results show that the baseline experiments on our corpus outperform the current state-of-the-art for the Portuguese language.",
+} 
+ </p> 
 <br>
 
 <h2 align="left"> FUNDING </h2>
