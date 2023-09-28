@@ -74,6 +74,7 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b
 </br>
 
 <h2 align="left"> BIBTEX </h2>
+
 ```bibtex
 @inproceedings{vargas-etal-2022-hatebr,
   title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
@@ -91,7 +92,6 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b
   pages = "7174--7183"
 }
 ```
-<br>
 
 <h2 align="left"> FUNDING </h2>
 
