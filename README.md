@@ -74,22 +74,23 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b
 </br>
 
 <h2 align="left"> BIBTEX </h2>
-<p align="justify">
- @inproceedings{vargas-etal-2022-hatebr,
-    title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
-    author = "Vargas, Francielle  and
-      Carvalho, Isabelle  and
-      Rodrigues de G{\'o}es, Fabiana  and
-      Pardo, Thiago  and
-      Benevenuto, Fabr{\'\i}cio",
-    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
-    month = jun,
-    year = "2022",
-    address = "Marseille, France",
-    publisher = "European Language Resources Association",
-    url = "https://aclanthology.org/2022.lrec-1.777",
-    pages = "7174--7183"} 
- </p> 
+```bibtex
+@inproceedings{vargas-etal-2022-hatebr,
+  title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
+  author = "Vargas, Francielle  and
+    Carvalho, Isabelle  and
+    Rodrigues de G{\'o}es, Fabiana  and
+    Pardo, Thiago  and
+    Benevenuto, Fabr{\'\i}cio",
+  booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+  month = jun,
+  year = "2022",
+  address = "Marseille, France",
+  publisher = "European Language Resources Association",
+  url = "https://aclanthology.org/2022.lrec-1.777",
+  pages = "7174--7183"
+}
+```
 <br>
 
 <h2 align="left"> FUNDING </h2>
