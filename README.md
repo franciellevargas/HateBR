@@ -82,7 +82,7 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b
       Rodrigues de G{\'o}es, Fabiana  and
       Pardo, Thiago  and
       Benevenuto, Fabr{\'\i}cio",
-    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    booktitle = "Proceedings of the 13th International Conference on Language Resources and Evaluation",
     month = jun,
     year = "2022",
     address = "Marseille, France",
