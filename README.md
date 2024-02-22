@@ -4,16 +4,16 @@
 <h2 align="center"> HateBR - Offensive Language and Hate Speech Dataset in Brazilian Portuguese </h2>  
 
 </br>
-<p align="justify"> HateBR is the first large-scale expert annotated dataset of Brazilian Instagram comments for abusive language detection on the web and social media. The HateBR was collected from Brazilian Instagram comments of politicians and manually annotated by specialists. It is composed of 7,000 documents annotated according to three different layers: a binary classification (offensive versus non-offensive comments), offensiveness-level (highly, moderately, and slightly offensive messages), and nine hate speech groups (xenophobia, racism, homophobia, sexism, religious intolerance, partyism, apology for the dictatorship, antisemitism, and fatphobia). Each comment was annotated by three different annotators and achieved high inter-annotator agreement. Furthermore, baseline experiments were implemented reaching 85% of F1-score outperforming the current literature dataset baselines for the Portuguese language. We hope that the proposed expert annotated dataset may foster research on hate speech detection in the Natural Language Processing area. </p>
+<p align="justify"> HateBR is the first large-scale expert annotated dataset of Brazilian Instagram comments for abusive language detection on the web and social media. The HateBR was collected from Brazilian Instagram comments of politicians and manually annotated by specialists. It is composed of 7,000 documents annotated according to three different layers: a binary classification (offensive versus non-offensive comments), offensiveness-level (highly, moderately, and slightly offensive messages), and 9 (nine) hate speech targets (xenophobia, racism, homophobia, sexism, religious intolerance, partyism, apology for the dictatorship, antisemitism, and fatphobia). Each comment was annotated by three different annotators and achieved high inter-annotator agreement. Furthermore, baseline experiments were implemented reaching 85% of the F1-score outperforming the current literature dataset baselines for the Portuguese language. We hope that the proposed expert annotated dataset may foster research on hate speech detection in the Natural Language Processing area. </p>
 
 ---
 
-<p align="justify"> This repository contains the corpus and the best models presented in the paper (see section "citing"). HateBr.csv file is composed of an offensive language and hate speech annotated corpus, which provides 4 (four) columns as described above: </p>
+<p align="justify"> This repository contains the corpus and the best models presented in the paper (see section "citing"). <b>HateBr.csv file</b> provides 4 (four) columns as described above: </p>
 
 * **1st column**: Instagram comments.   
-* **2nd column**: Offensive language classification divided into offensive comments versus non-offensive comments.
-* **3rd column**: Offensiveness-level classification divided into highly offensive, moderately offensive, and slightly offensive. 
-* **4th column**: Hate speech classification divided into nine different hate groups: antisemitism, apology for the dictatorship, fatphobia, homophobia, partyism, racism, religious intolerance, sexism, and xenophobia. At last, offensive & no hate speech comments was also classified.
+* **2nd column**: Offensive language classification is divided into offensive comments versus non-offensive comments.
+* **3rd column**: Offensiveness-level classification is divided into highly offensive, moderately offensive, and slightly offensive. 
+* **4th column**: Hate speech classification is divided into 9 (nine) different hate targets: antisemitism, apology for the dictatorship, fatphobia, homophobia, partyism, racism, religious intolerance, sexism, and xenophobia. At last, offensive & no hate speech comments were also classified.
 
 The following table describes in detail the labels for each proposed layer of annotation:
 <div align="center">
