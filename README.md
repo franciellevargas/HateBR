@@ -60,7 +60,7 @@ The following table describes in detail the labels for each proposed layer of an
 
 </br>
 
-In addition, we also provide baseline machine learning results for both task: offensive language and hate speech detection. The best obtained models is available here in .pkl files. File names are organized as `[classification (offensive or hate)_representation (ngram or tfidf)_algorithms (nb, svm, mlp or lr)]`. For example, the file *offensive_tfidf_svm.pkl* presents the model about offensive detection with tf-idf representation using the support vector machine algorithm.
+In addition, we also provide baseline machine learning results for both tasks: offensive language and hate speech detection. The best-obtained models are available here in .pkl files. File names are organized as `[classification (offensive or hate)_representation (ngram or tfidf)_algorithms (nb, svm, mlp or lr)]`. For example, the file *offensive_tfidf_svm.pkl* presents the model of offensive detection with tf-idf representation using the support vector machine algorithm.
 
 </br>
 
@@ -68,29 +68,17 @@ In addition, we also provide baseline machine learning results for both task: of
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
-Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b>HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection</b>. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7174–7183. Marseille, France. 
+Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b>HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection</b>. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7174–7183. Marseille, France. https://aclanthology.org/2022.lrec-1.777/
 </p>
 
-</br>
-
-<h2 align="left"> BIBTEX </h2>
-<p align="justify">
- @inproceedings{vargas-etal-2022-hatebr,
-    title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
-    author = "Vargas, Francielle  and
-      Carvalho, Isabelle  and
-      Rodrigues de G{\'o}es, Fabiana  and
-      Pardo, Thiago  and
-      Benevenuto, Fabr{\'\i}cio",
-    booktitle = "Proceedings of the 13th International Conference on Language Resources and Evaluation",
-    month = jun,
-    year = "2022",
-    address = "Marseille, France",
-    publisher = "European Language Resources Association",
-    url = "https://aclanthology.org/2022.lrec-1.777",
-    pages = "7174--7183"} 
- </p> 
 <br>
+<p align="justify">
+Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>. 
+Natural Language Processing Journal - Cambridge Core. pp.1-21. To appear
+</p>
+
+
+
 
 <h2 align="left"> FUNDING </h2>
 
