@@ -13,7 +13,7 @@
 * **1st column**: Instagram comments.   
 * **2nd column**: Offensive language classification is divided into offensive comments versus non-offensive comments.
 * **3rd column**: Offensiveness-level classification is divided into highly offensive, moderately offensive, and slightly offensive. 
-* **4th column**: Hate speech classification is divided into 9 (nine) different hate targets: antisemitism, apology for the dictatorship, fatphobia, homophobia, partyism, racism, religious intolerance, sexism, and xenophobia. At last, offensive & no hate speech comments were also classified.
+* **4th column**: Hate speech classification is divided into 9 (nine) different hate speech targets: antisemitism, apology for the dictatorship, fatphobia, homophobia, partyism, racism, religious intolerance, sexism, and xenophobia. At last, offensive & no hate speech comments were also classified.
 
 The following table describes in detail the labels for each proposed layer of annotation:
 <div align="center">
