@@ -81,9 +81,7 @@ Natural Language Processing Journal - Cambridge Core. pp.1-21. To appear
 
 <h2 align="left"> FUNDING </h2>
 
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif)
-
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/92143a7500195e8bfda14c7c0dfe09bf3e996fad/img/locus_media.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif)  ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/92143a7500195e8bfda14c7c0dfe09bf3e996fad/img/locus_media.png)
 
 
 </br>
