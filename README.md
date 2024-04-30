@@ -75,6 +75,7 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b
 Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>. 
 Natural Language Processing Journal - Cambridge Core. pp.1-21. To appear
 </p>
+<br>
 
 <h2 align="left"> BIBTEX </h2>
 <p align="justify">
