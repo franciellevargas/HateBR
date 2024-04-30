@@ -76,7 +76,24 @@ Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware
 Natural Language Processing Journal - Cambridge Core. pp.1-21. To appear
 </p>
 
-
+<h2 align="left"> BIBTEX </h2>
+<p align="justify">
+@inproceedings{vargas-etal-2022-hatebr,
+    title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
+    author = "Vargas, Francielle  and
+      Carvalho, Isabelle  and
+      Rodrigues de G{\'o}es, Fabiana  and
+      Pardo, Thiago  and
+      Benevenuto, Fabr{\'\i}cio",
+    booktitle = "Proceedings of the 13th Language Resources and Evaluation Conference",
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.777",
+    pages = "7174--7183",
+  }
+ </p> 
+<br>
 
 
 <h2 align="left"> FUNDING </h2>
