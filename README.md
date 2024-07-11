@@ -102,7 +102,6 @@ Natural Language Processing Journal - Cambridge Core. pp.1-23. To appear
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/fapesp.jpg)
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/cnpq-capes.png)
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/fapemg.png)
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/8f353e83a7cd62aa435fb04e57be4afdafc1b43e/img/locus_media.png)
 
 
 
