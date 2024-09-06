@@ -73,8 +73,9 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b
 <br>
 <p align="justify">
 Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>. 
-Natural Language Processing Journal - Cambridge Core. pp.1-23. To appear
+Natural Language Processing Journal. Cambridge University Press. pp.1-22. https://www.cambridge.org/core/journals/natural-language-processing/article/contextaware-and-expert-data-resources-for-brazilian-portuguese-hate-speech-detection/7D9019ED5471CD16E320EBED06A6E923#.
 </p>
+
 <br>
 
 <h2 align="left"> BIBTEX </h2>
@@ -94,6 +95,17 @@ Natural Language Processing Journal - Cambridge Core. pp.1-23. To appear
     pages = "7174--7183",
   }
  </p> 
+
+
+ @article{Vargas_Carvalho_Pardo_Benevenuto_2024, 
+ author={Vargas, Francielle and Carvalho, Isabelle and Pardo, Thiago A. S. and Benevenuto, Fabrício},
+ title={Context-aware and expert data resources for Brazilian Portuguese hate speech detection}, 
+ DOI={10.1017/nlp.2024.18}, 
+ journal={Natural Language Processing},  
+ year={2024}, 
+ pages={1–22},
+ } 
+ <div></div>
 <br>
 
 
