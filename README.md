@@ -115,8 +115,4 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/cnpq-capes.png)
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/fapemg.png)
 
-
-
-
-
 </br>
