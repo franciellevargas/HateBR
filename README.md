@@ -79,7 +79,9 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
 <br>
 
 <h2 align="left"> BIBTEX </h2>
-@inproceedings{vargas-etal-2022-hatebr,
+
+<p align="justify">
+  @inproceedings{vargas-etal-2022-hatebr,
     title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
     author = "Vargas, Francielle  and
       Carvalho, Isabelle  and
@@ -107,7 +109,9 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
     url = "https://aclanthology.org/2022.lrec-1.777",
     pages = "7174--7183",
     }
+</p>
 
+<br>
 </br>
 
  @article{Vargas_Carvalho_Pardo_Benevenuto_2024, 
@@ -119,6 +123,9 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
  pages={1–22},
  } 
  <div></div>
+
+<br>
+</br>
 
 <h2 align="left"> FUNDING </h2>
 
