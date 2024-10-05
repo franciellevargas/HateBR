@@ -79,7 +79,36 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
 <br>
 
 <h2 align="left"> BIBTEX </h2>
-<p align="justify">
+@inproceedings{vargas-etal-2022-hatebr,
+    title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
+    author = "Vargas, Francielle  and
+      Carvalho, Isabelle  and
+      Rodrigues de G{\'o}es, Fabiana  and
+      Pardo, Thiago  and
+      Benevenuto, Fabr{\'\i}cio",
+    editor = "Calzolari, Nicoletta  and
+      B{\'e}chet, Fr{\'e}d{\'e}ric  and
+      Blache, Philippe  and
+      Choukri, Khalid  and
+      Cieri, Christopher  and
+      Declerck, Thierry  and
+      Goggi, Sara  and
+      Isahara, Hitoshi  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Mazo, H{\'e}l{\`e}ne  and
+      Odijk, Jan  and
+      Piperidis, Stelios",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.777",
+    pages = "7174--7183",
+    }
+
+
  @article{Vargas_Carvalho_Pardo_Benevenuto_2024, 
  author={Vargas, Francielle and Carvalho, Isabelle and Pardo, Thiago A. S. and Benevenuto, Fabrício},
  title={Context-aware and expert data resources for Brazilian Portuguese hate speech detection}, 
@@ -89,8 +118,6 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
  pages={1–22},
  } 
  <div></div>
-<br>
-
 
 <h2 align="left"> FUNDING </h2>
 
