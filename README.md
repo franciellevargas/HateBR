@@ -121,6 +121,7 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
  journal={Natural Language Processing},  
  year={2024}, 
  pages={1–22},
+ url={https://www.cambridge.org/core/journals/natural-language-processing/article/contextaware-and-expert-data-resources-for-brazilian-portuguese-hate-speech-detection/7D9019ED5471CD16E320EBED06A6E923#},
  } 
  <div></div>
 
