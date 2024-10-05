@@ -108,6 +108,7 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
     pages = "7174--7183",
     }
 
+</br>
 
  @article{Vargas_Carvalho_Pardo_Benevenuto_2024, 
  author={Vargas, Francielle and Carvalho, Isabelle and Pardo, Thiago A. S. and Benevenuto, Fabrício},
