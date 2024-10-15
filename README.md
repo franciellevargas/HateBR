@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7681302.svg)](https://doi.org/10.5281/zenodo.10794024)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/3fc318c0c69a0acd2b665fc181bdffd5580bfa14/img/locus_media.png)
 
 <h2 align="center"> HateBR - Offensive Language and Hate Speech Dataset in Brazilian Portuguese </h2>  
 
@@ -131,5 +132,4 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
 <h2 align="left"> FUNDING </h2>
 
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/fc03a6672ab2937e413e4508a5061abed4a66098/img/fapesp.jpg)
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/3fc318c0c69a0acd2b665fc181bdffd5580bfa14/img/locus_media.png)
 </br>
