@@ -9,7 +9,7 @@
 
 <p align="justify"> This repository contains the corpus and the best models presented in the LREC's paper (see section "CITING / BIBTEX"). 
   
-The following table describes in detail the labels for each proposed layer of annotation:
+The following table describes in detail the binary class:
 <div align="center">
 <table> 
 <tr><th>Offensive Language</th></tr>
