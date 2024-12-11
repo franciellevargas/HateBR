@@ -12,7 +12,7 @@
 The following table describes in detail the labels for each proposed layer of annotation:
 <div align="center">
 <table> 
-<tr><th>Offensive Language</th>/tr>
+<tr><th>Offensive Language</th></tr>
 <tr><td>
 
 |class|label|total|
@@ -34,21 +34,7 @@ In addition, we also provide baseline machine learning results for both tasks: o
 </br>
 
 
-<h2 align="left"> CITING </h2>
-
-<p align="justify">
-Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b>HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection</b>. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7174–7183. Marseille, France. https://aclanthology.org/2022.lrec-1.777/
-</p>
-
-<br>
-<p align="justify">
-Vargas, F., Carvalho, I., Pardo, T.A.S., Benevenuto, F. (2024). <b>Context-Aware and Expert Data Resources for Brazilian Portuguese Hate Speech Detection</b>. 
-Natural Language Processing Journal. Cambridge University Press. pp.1-22. https://www.cambridge.org/core/journals/natural-language-processing/article/contextaware-and-expert-data-resources-for-brazilian-portuguese-hate-speech-detection/7D9019ED5471CD16E320EBED06A6E923#.
-</p>
-
-<br>
-
-<h2 align="left"> BIBTEX </h2>
+<h2 align="left"> CITING / BIBTEX </h2>
 
 <p align="justify">
   @inproceedings{vargas-etal-2022-hatebr,
