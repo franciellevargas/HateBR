@@ -88,21 +88,7 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
       Rodrigues de G{\'o}es, Fabiana  and
       Pardo, Thiago  and
       Benevenuto, Fabr{\'\i}cio",
-    editor = "Calzolari, Nicoletta  and
-      B{\'e}chet, Fr{\'e}d{\'e}ric  and
-      Blache, Philippe  and
-      Choukri, Khalid  and
-      Cieri, Christopher  and
-      Declerck, Thierry  and
-      Goggi, Sara  and
-      Isahara, Hitoshi  and
-      Maegaard, Bente  and
-      Mariani, Joseph  and
-      Mazo, H{\'e}l{\`e}ne  and
-      Odijk, Jan  and
-      Piperidis, Stelios",
-    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
-    month = jun,
+    booktitle = "Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)",
     year = "2022",
     address = "Marseille, France",
     publisher = "European Language Resources Association",
@@ -111,8 +97,7 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
     }
 </p>
 
-<br>
-</br>
+<br></br>
 
  @article{Vargas_Carvalho_Pardo_Benevenuto_2024, 
  author={Vargas, Francielle and Carvalho, Isabelle and Pardo, Thiago A. S. and Benevenuto, Fabrício},
@@ -125,8 +110,22 @@ Natural Language Processing Journal. Cambridge University Press. pp.1-22. https:
  } 
  <div></div>
 
-<br>
-</br>
+<br></br>
+
+<p align="justify">
+  @inproceedings{vargas-etal-2022-hatebr,
+    title = "HateBRXplain: A Benchmark Dataset with Human-Annotated Rationales for Explainable Hate Speech Detection in Brazilian Portuguese",
+    author = "Salles, Isadora
+      Vargas, Francielle  and
+      Benevenuto, Fabr{\'\i}cio",
+    booktitle = "Proceedings of the 31th International Conference on Computational Linguistics (COLING 2025)",
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "",
+    pages = "",
+    }
+</p>
 
 <h2 align="left"> FUNDING </h2>
 
