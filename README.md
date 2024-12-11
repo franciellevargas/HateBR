@@ -7,13 +7,8 @@
 
 ---
 
-<p align="justify"> This repository contains the corpus and the best models presented in the paper (see section "citing"). <b>HateBr.csv file</b> provides 4 (four) columns as described above: </p>
-
-* **1st column**: Instagram comments.   
-* **2nd column**: Offensive language classification is divided into offensive comments versus non-offensive comments.
-* **3rd column**: Offensiveness-level classification is divided into highly offensive, moderately offensive, and slightly offensive. 
-* **4th column**: Hate speech classification is divided into 9 (nine) different hate speech targets: antisemitism, apology for the dictatorship, fatphobia, homophobia, partyism, racism, religious intolerance, sexism, and xenophobia. At last, offensive & no hate speech comments were also classified.
-
+<p align="justify"> This repository contains the corpus and the best models presented in the paper (see section "citing"). 
+  
 The following table describes in detail the labels for each proposed layer of annotation:
 <div align="center">
 <table> 
@@ -29,32 +24,7 @@ The following table describes in detail the labels for each proposed layer of an
 
 </td><td>
 
-|class|label|total|
-|--|--|--|
-|highly|3|778|
-|moderately|2|1,044|
-|slightly|1|1,678|
-|non-offensive|0|3,500|
-|**Total**||**7,000**|
-  
-</td><td>
-
-|class|label|total|  
-|--|--|--|  
-|antisemitism|1|2|
-|apology for the dictatorship|2|32|
-|fatphobia|3|27|
-|homophobia|4|17|
-|partyism|5|496|
-|racism|6|8|
-|religious intolerance|7|47|
-|sexism|8|97|
-|xenophobia|9|1|
-|offensive & non-hate speech |-1|2,773|
-|non-offensive|0|3,500|
-|**Total**||**7,000**|
-
-</td></tr></table>
+</table>
 </div>
 
 </br>
