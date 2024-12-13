@@ -6,7 +6,7 @@
 <p align="justify"> HateBR is the first large-scale expert annotated dataset of Brazilian Instagram comments for abusive language detection on the web and social media. The HateBR was collected from Brazilian Instagram comments of politicians and manually annotated by specialists. It is composed of 7,000 documents annotated according to three different layers: a binary classification (offensive versus non-offensive comments), offensiveness-level (highly, moderately, and slightly offensive messages), and 9 (nine) hate speech targets (xenophobia, racism, homophobia, sexism, religious intolerance, partyism, apology for the dictatorship, antisemitism, and fatphobia). Each comment was annotated by three different annotators and achieved high inter-annotator agreement. Furthermore, baseline experiments were implemented outperforming the current literature dataset baselines for the Portuguese language. We hope that the proposed expert annotated dataset may foster research on hate speech detection in the Natural Language Processing area. </p>
 
 </br>
-<h3 align="center">UPDATE: THE <u>HateBR 2.0</u> AND <u>HateBRXplain</u> VERSIONS ARE AVAILABLE.</h3> 
+<h3 align="center">UPDATE: <u>HateBR 2.0</u> AND <u>HateBRXplain</u> VERSIONS ARE AVAILABLE.</h3> 
 </br>
   
 <p align="justify"> This repository contains the corpus and the best models presented in the LREC's paper (see section "CITING / BIBTEX"). 
