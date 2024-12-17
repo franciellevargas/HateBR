@@ -73,7 +73,7 @@ In addition, we also provide baseline machine learning results for both tasks: o
 <p align="justify">
   @inproceedings{vargas-etal-2022-hatebr,
     title = "HateBRXplain: A Benchmark Dataset with Human-Annotated Rationales for Explainable Hate Speech Detection in Brazilian Portuguese",
-    author = "Salles, Isadora
+    author = "Salles, Isadora and
       Vargas, Francielle  and
       Benevenuto, Fabr{\'\i}cio",
     booktitle = "Proceedings of the 31th International Conference on Computational Linguistics (COLING 2025)",
