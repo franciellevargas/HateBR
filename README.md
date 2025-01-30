@@ -71,18 +71,25 @@ In addition, we also provide baseline machine learning results for both tasks: o
 <br></br>
 
 <p align="justify">
-  @inproceedings{vargas-etal-2022-hatebr,
-    title = "HateBRXplain: A Benchmark Dataset with Human-Annotated Rationales for Explainable Hate Speech Detection in Brazilian Portuguese",
-    author = "Salles, Isadora and
+@inproceedings{salles-etal-2025-hatebrxplain,
+    title = "{H}ate{BRX}plain: A Benchmark Dataset with Human-Annotated Rationales for Explainable Hate Speech Detection in {B}razilian {P}ortuguese",
+    author = "Salles, Isadora  and
       Vargas, Francielle  and
-      Benevenuto, Fabr{\'\i}cio",
-    booktitle = "Proceedings of the 31th International Conference on Computational Linguistics (COLING 2025)",
+      Benevenuto, Fabr{\'i}cio",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
     year = "2025",
     address = "Abu Dhabi, UAE",
     publisher = "Association for Computational Linguistics",
-    url = "",
-    pages = "",
-    }
+    url = "https://aclanthology.org/2025.coling-main.446/",
+    pages = "6659--6669",
+}
 </p>
 
 <br></br>
