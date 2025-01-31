@@ -13,7 +13,7 @@
   
 The following table describes in detail the classes:
 
-### HateBR Dataset
+### HateBR 
 <div align="center">
 
 | class         | label | total  |
@@ -24,7 +24,7 @@ The following table describes in detail the classes:
 
 </div>
 
-### HateBRXplain Dataset
+### HateBRXplain 
 
 <div align="center">
 
