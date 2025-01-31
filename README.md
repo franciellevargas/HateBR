@@ -14,7 +14,7 @@
 The following table describes in detail the binary class:
 <div align="center">
 <table> 
-<tr><th>Offensive Language</th></tr>
+<tr><th>HateBR: Binary Classification</th></tr>
 <tr><td>
 
 |class|label|total|
@@ -23,9 +23,19 @@ The following table describes in detail the binary class:
 |non-offensive|0|3,500| 
 **Total** | | **7,000**|
 
+</td><td>
+</table>
+<table> 
+<tr><th>HateBRXplain: Binary Classification</th></tr>
+<tr><td>
+
+|class|label|rationales|total|
+|--|--|--|  
+|offensive|1|3,500|human-annotated rationales
+|non-offensive|0|null|3,500| 
+**Total** | | **7,000**|
 
 </td><td>
-
 </table>
 </div>
 
