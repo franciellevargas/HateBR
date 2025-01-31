@@ -13,31 +13,29 @@
   
 The following table describes in detail the classes:
 
+### HateBR Dataset
 <div align="center">
-<table> 
-<tr><th>HateBR: Binary Classification</th></tr>
-<tr><td>
-|class|label|total|
-|--|--|--|  
-|offensive|1|3,500| 
-|non-offensive|0|3,500| 
-**Total** | | **7,000**|
-</td><td>
-</table>
+
+| class         | label | total  |
+|--------------|-------|--------|
+| offensive    | 1     | 3,500  |
+| non-offensive | 0    | 3,500  |
+| **Total**    |       | **7,000** |
+
 </div>
 
+### HateBRXplain Dataset
+
 <div align="center">
-<table>
-<tr><th>HateBRXplain: Binary Classification</th></tr>
-<tr><td>
-|class|label|rationales|total|
-|--|--|--|--| 
-|offensive|1|3,500|human-annotated rationales
-|non-offensive|0|null|3,500| 
-**Total** | | **7,000**|
-</td><td>
-</table>
+
+| class         | label | rationales                     | total  |
+|--------------|-------|--------------------------------|--------|
+| offensive    | 1     | human-annotated rationales    | 3,500  |
+| non-offensive | 0    | null                          | 3,500  |
+| **Total**    |       |                                | **7,000** |
+
 </div>
+
 
 </br>
 
