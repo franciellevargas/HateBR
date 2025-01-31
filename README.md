@@ -95,6 +95,7 @@ In addition, we also provide baseline machine learning results for both tasks: o
 <br></br>
 
 <h2 align="left"> FUNDING </h2>
+
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/fc03a6672ab2937e413e4508a5061abed4a66098/img/fapesp.jpg)
 
 </br>
