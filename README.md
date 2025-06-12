@@ -66,24 +66,6 @@ Please cite our paper if you use our dataset:
 ```
 
 ```bibtex
-  @inproceedings{vargas-etal-2022-hatebr,
-    title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
-    author = "Vargas, Francielle  and
-      Carvalho, Isabelle  and
-      Rodrigues de G{\'o}es, Fabiana  and
-      Pardo, Thiago  and
-      Benevenuto, Fabr{\'\i}cio",
-    booktitle = "Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)",
-    year = "2022",
-    address = "Marseille, France",
-    publisher = "European Language Resources Association",
-    url = "https://aclanthology.org/2022.lrec-1.777",
-    pages = "7174--7183",
-    }
-```
-
-<br></br>
-
  @article{Vargas_Carvalho_Pardo_Benevenuto_2024, 
  author={Vargas, Francielle and Carvalho, Isabelle and Pardo, Thiago A. S. and Benevenuto, Fabrício},
  title={Context-aware and expert data resources for Brazilian Portuguese hate speech detection}, 
@@ -92,7 +74,12 @@ Please cite our paper if you use our dataset:
  year={2024}, 
  pages={1–22},
  url={https://www.cambridge.org/core/journals/natural-language-processing/article/contextaware-and-expert-data-resources-for-brazilian-portuguese-hate-speech-detection/7D9019ED5471CD16E320EBED06A6E923#},
- } 
+ }
+```
+
+<br></br>
+
+ 
  <div></div>
 
 <br></br>
