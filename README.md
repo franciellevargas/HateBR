@@ -9,9 +9,9 @@
 <h3 align="center">***UPDATE***: <u>HateBR</u> and <u>HateBRXplain</u> new versions are available</h3> 
 </br>
   
-<p align="justify"> This repository contains the HateBR 2.0 corpus and its explainable version, the HateBRXplain corpus. The following image and tables provide detailed definitions of offensive language and hate speech used to label the corpus, along with the number of samples for each class:
+<p align="justify"> This repository contains the HateBR 2.0 corpus and its explainable version, the HateBRXplain corpus. The following image and tables provide detailed definitions of offensive language and hate speech used to label the corpus, along with the number of samples for each class. The offensiveness levels and hate speech targets are available only in HateBR 1.0. If you need access to this version, please contact me at franciellealvargas@gmail.com.
 
- ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/d9f0a61b591820083c14691ffac85db460dee4d5/img/hatebr_annotation.png)
+ ![SSC-logo-200x71](https://github.com/franciellevargas/franciellevargas.github.io/blob/d9f0a61b591820083c14691ffac85db460dee4d5/img/hatebr_annotation.png)
 
 
 ### HateBR 
