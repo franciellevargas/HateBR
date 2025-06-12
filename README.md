@@ -72,19 +72,15 @@ Please cite our paper if you use our dataset:
  DOI={10.1017/nlp.2024.18}, 
  journal={Natural Language Processing},  
  year={2024}, 
- pages={1–22},
+ pages={435-456},
+ volume{31},
+ number={2},
  url={https://www.cambridge.org/core/journals/natural-language-processing/article/contextaware-and-expert-data-resources-for-brazilian-portuguese-hate-speech-detection/7D9019ED5471CD16E320EBED06A6E923#},
  }
 ```
 
-<br></br>
 
- 
- <div></div>
-
-<br></br>
-
-<p align="justify">
+```bibtex
 @inproceedings{salles-etal-2025-hatebrxplain,
     title = "{H}ate{BRX}plain: A Benchmark Dataset with Human-Annotated Rationales for Explainable Hate Speech Detection in {B}razilian {P}ortuguese",
     author = "Salles, Isadora  and
@@ -96,15 +92,14 @@ Please cite our paper if you use our dataset:
       Al-Khalifa, Hend  and
       Eugenio, Barbara Di  and
       Schockaert, Steven",
-    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
-    month = jan,
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)",
     year = "2025",
     address = "Abu Dhabi, UAE",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.coling-main.446/",
     pages = "6659--6669",
 }
-</p>
+```
 
 <br></br>
 
