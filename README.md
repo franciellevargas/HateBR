@@ -47,6 +47,18 @@ In addition, we also provide baseline machine learning results for both tasks: o
 
 <h2 align="left"> CITING / BIBTEX </h2>
 
+Please cite our paper if you use our dataset:
+```bibtex
+@misc{wu2023ragtruth,
+      title={RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models}, 
+      author={Yuanhao Wu and Juno Zhu and Siliang Xu and Kashun Shum and Cheng Niu and Randy Zhong and Juntong Song and Tong Zhang},
+      year={2023},
+      eprint={2401.00396},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 <p align="justify">
   @inproceedings{vargas-etal-2022-hatebr,
     title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
