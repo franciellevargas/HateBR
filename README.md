@@ -10,8 +10,10 @@
 </br>
   
 <p align="justify"> This repository contains the corpus and the best models presented in the LREC's paper (see section "CITING / BIBTEX"). 
-  
-The following table describes in detail the classes:
+The following image and tables provide detailed definitions of offensive language and hate speech used to label the corpus, along with the number of samples for each class:
+
+ ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/5a2d7baf37291cc83a10632b11c3341e44358fe7/img/selfar.png)
+
 
 ### HateBR 
 <div align="center">
