@@ -65,7 +65,7 @@ Please cite our paper if you use our dataset:
     }
 ```
 
-<p align="justify">
+```bibtex
   @inproceedings{vargas-etal-2022-hatebr,
     title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
     author = "Vargas, Francielle  and
@@ -80,7 +80,7 @@ Please cite our paper if you use our dataset:
     url = "https://aclanthology.org/2022.lrec-1.777",
     pages = "7174--7183",
     }
-</p>
+```
 
 <br></br>
 
