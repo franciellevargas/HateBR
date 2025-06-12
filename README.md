@@ -49,14 +49,20 @@ In addition, we also provide baseline machine learning results for both tasks: o
 
 Please cite our paper if you use our dataset:
 ```bibtex
-@misc{wu2023ragtruth,
-      title={RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models}, 
-      author={Yuanhao Wu and Juno Zhu and Siliang Xu and Kashun Shum and Cheng Niu and Randy Zhong and Juntong Song and Tong Zhang},
-      year={2023},
-      eprint={2401.00396},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@inproceedings{vargas-etal-2022-hatebr,
+    title = "{H}ate{BR}: A Large Expert Annotated Corpus of {B}razilian {I}nstagram Comments for Offensive Language and Hate Speech Detection",
+    author = "Vargas, Francielle  and
+      Carvalho, Isabelle  and
+      Rodrigues de G{\'o}es, Fabiana  and
+      Pardo, Thiago  and
+      Benevenuto, Fabr{\'\i}cio",
+    booktitle = "Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)",
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.777",
+    pages = "7174--7183",
+    }
 ```
 
 <p align="justify">
