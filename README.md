@@ -1,8 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7681302.svg)](https://doi.org/10.5281/zenodo.10794024)
 
-## License
-This dataset is licensed under the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).
-
 <h2 align="center"> HateBR - A Benchmark Dataset for Offensive Language and Hate Speech in Brazilian Portuguese </h2>  
 
 </br>
@@ -105,6 +102,11 @@ Please cite our paper if you use our dataset:
 ```
 
 <br></br>
+
+
+## License
+This dataset is licensed under the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).
+
 
 <h2 align="left"> Ethics Statements </h2>
 This dataset contains hateful and offensive content and is intended for research purposes only. Commercial use is not permitted.
